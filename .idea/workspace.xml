@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Overlay:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ca03771-5f39-4eb8-ad86-98b354cf1aa8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dPLyhOSTuvZxUMVVbKit3TnvVt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AA\IdeaProjects\Overlay\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AA\IdeaProjects\Overlay\resources" />
+      <recent name="C:\Users\AA\IdeaProjects\Overlay\resources\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ROR2Overlay">
+    <configuration name="Overlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Overlay.Overlay" />
+      <module name="Overlay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Overlay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ROR2Overlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROR2Overlay.ROR2Overlay" />
+      <module name="ROR2Overlay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ROR2Overlay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourceLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Overlay.ResourceLoader" />
+      <module name="Overlay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Overlay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ROR2Overlay" />
+        <item itemvalue="Application.Overlay" />
+        <item itemvalue="Application.ResourceLoader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ca03771-5f39-4eb8-ad86-98b354cf1aa8" name="Default Changelist" comment="" />
+      <created>1592322037966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592322037966</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1599679200741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1599679200741" />
+    <state x="731" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1592340470440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592340470440" />
+    <state x="589" y="405" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599679471881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="589" y="405" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599679471881" />
+    <state x="1062" y="62" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592322450548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1062" y="62" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592322450548" />
+    <state x="565" y="356" key="FileChooserDialogImpl" timestamp="1599679256283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="356" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599679256283" />
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom" timestamp="1592606809158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592606809158" />
+    <state width="1877" height="267" key="GridCell.Tab.0.center" timestamp="1592606809158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592606809158" />
+    <state width="1877" height="267" key="GridCell.Tab.0.left" timestamp="1592606809157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592606809157" />
+    <state width="1877" height="267" key="GridCell.Tab.0.right" timestamp="1592606809158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592606809158" />
+    <state x="223" y="116" key="SettingsEditor" timestamp="1599679483141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="223" y="116" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599679483141" />
+    <state x="582" y="253" key="run.anything.popup" timestamp="1592337298661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="253" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592337298661" />
+  </component>
+</project>
